@@ -1,0 +1,17 @@
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\bin\Debug\net6.0-windows\Programar Hibernação.exe
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\bin\Debug\net6.0-windows\Programar Hibernação.deps.json
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\bin\Debug\net6.0-windows\Programar Hibernação.runtimeconfig.json
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\bin\Debug\net6.0-windows\Programar Hibernação.dll
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\bin\Debug\net6.0-windows\Programar Hibernação.pdb
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.vbproj.AssemblyReference.cache
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar_Hibernação.Form1.resources
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.vbproj.GenerateResource.cache
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.AssemblyInfoInputs.cache
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.AssemblyInfo.vb
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.vbproj.CoreCompileInputs.cache
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.dll
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\refint\Programar Hibernação.dll
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.pdb
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\Programar Hibernação.genruntimeconfig.cache
+C:\Users\luiz_\source\repos\Programar Hibernação\Programar Hibernação\obj\Debug\net6.0-windows\ref\Programar Hibernação.dll
